@@ -50,7 +50,7 @@ body.vscode-dark #ddbChatText p {
     width: 0;
 }
 
-body.vscode-dark .ddbChatBorder-Duck {
+body.vscode-dark .ddbChatBorder-Daddy {
     border-left: 3px solid #ffd45a;
 }
 
@@ -58,7 +58,7 @@ body.vscode-dark .ddbChatBorder-User {
     border-left: 3px solid #d2e3fc;
 }
 
-body.vscode-light .ddbChatBorder-Duck {
+body.vscode-light .ddbChatBorder-Daddy {
     border-left: 3px solid #e0b63f;
 }
 
@@ -71,7 +71,7 @@ body.vscode-light .ddbChatBorder-User {
     margin-top: auto;
     padding: 5px;
 }
-  
+
 #ddbInput textarea {
     background: transparent;
     border: none;
@@ -88,7 +88,6 @@ body.vscode-dark #ddbInput textarea {
 
 body.vscode-light #ddbInput textarea {
     border-top: 2px solid #e0e0e0;
-
 }
 
 #ddbInput textarea:focus {
