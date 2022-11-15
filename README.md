@@ -1,3 +1,9 @@
-# Rubber Duck Debugging
+# VSCode Pets --> Brian Stuart (Brian Daddy)
 
-Provide everyone with their own virtual duck on VS Code. Introduce students to rubber duck debugging, a technique that involves talking to a rubber duck (or any inanimate, or even animate object) about a bug in their code.
+## The first of my Pets Extension: Talk to beloved Dr. Brian Stuart in your webview. 
+
+## Installation via VS Code:
+#### 1. Open ```Extensions``` sidebar panel in VS Code. ```view -> Extensions```
+#### 2. Search for ```VSCode Pets```.
+#### 3. Click ```Install``` and ```Enable``` to install it.
+#### 4. Click ```Reload``` to reload editor.
