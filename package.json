@@ -1,9 +1,24 @@
 {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a5e2142fd27b0c6de99f4bde2d7aac2a300fc9ea
     "name": "brian-stuart-pet",
     "displayName": "Brian Stuart Pet",
     "description": "Provide everyone with their own virtual duck in VS Code. Introduce students to rubber duck debugging, a technique that involves talking to a rubber duck (or any inanimate, or even animate object) about a bug in their code.",
     "icon": "images/briandaddyicon.png",
     "version": "1.0.6",
+<<<<<<< HEAD
+=======
+=======
+    "name": "vscode-pets",
+    "displayName": "VSCode Pets",
+    "description": "Pets for your VSCode!",
+    "icon": "./briandaddyicon.png",
+    "repository": { "type": "git", "url": "https://github.com/mayukhi786/brianstuart.vsix.git" },
+    "version": "1.0.5",
+>>>>>>> 1a72b38977fce3fd2ac9c20cdced9b9624586ed2
+>>>>>>> a5e2142fd27b0c6de99f4bde2d7aac2a300fc9ea
     "publisher": "Mayukhi Khan",
     "engines": {
         "vscode": "^1.59.0"
@@ -12,22 +27,54 @@
         "Education"
     ],
     "activationEvents": [
+<<<<<<< HEAD
         "onView:ddb50.debugView"
+=======
+<<<<<<< HEAD
+        "onView:ddb50.debugView"
+=======
+        "onView:vscode-pets.debugView"
+>>>>>>> 1a72b38977fce3fd2ac9c20cdced9b9624586ed2
+>>>>>>> a5e2142fd27b0c6de99f4bde2d7aac2a300fc9ea
     ],
     "main": "./out/extension.js",
     "contributes": {
         "views": {
+<<<<<<< HEAD
             "ddb50": [{
                 "id": "ddb50.debugView",
                 "name": "Brian Stuart Pet",
+=======
+<<<<<<< HEAD
+            "ddb50": [{
+                "id": "ddb50.debugView",
+                "name": "Brian Stuart Pet",
+=======
+            "vscode-pets": [{
+                "id": "vscode-pets.debugView",
+                "name": "VSCode Pets",
+>>>>>>> 1a72b38977fce3fd2ac9c20cdced9b9624586ed2
+>>>>>>> a5e2142fd27b0c6de99f4bde2d7aac2a300fc9ea
                 "type": "webview"
             }]
         },
         "viewsContainers": {
             "activitybar": [{
+<<<<<<< HEAD
                 "id": "ddb50",
                 "title": "Brian Stuart Pet",
                 "icon": "images/ddb.svg"
+=======
+<<<<<<< HEAD
+                "id": "ddb50",
+                "title": "Brian Stuart Pet",
+                "icon": "images/ddb.svg"
+=======
+                "id": "vscode-pets",
+                "title": "VSCode Pets",
+                "icon": "./ddb.svg"
+>>>>>>> 1a72b38977fce3fd2ac9c20cdced9b9624586ed2
+>>>>>>> a5e2142fd27b0c6de99f4bde2d7aac2a300fc9ea
             }]
         }
     },
