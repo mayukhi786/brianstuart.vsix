@@ -48,8 +48,17 @@ class DDBViewProvider implements vscode.WebviewViewProvider {
 <<<<<<< HEAD
 						<div id="ddbInput"><textarea placeholder="Message Daddy"></textarea></div>
 =======
+<<<<<<< HEAD
 						<div id="ddbInput"><textarea placeholder="Message Brian Daddy"></textarea></div>
 >>>>>>> 1a72b38977fce3fd2ac9c20cdced9b9624586ed2
+=======
+<<<<<<< HEAD
+						<div id="ddbInput"><textarea placeholder="Message Daddy"></textarea></div>
+=======
+						<div id="ddbInput"><textarea placeholder="Message Brian Daddy"></textarea></div>
+>>>>>>> 1a72b38977fce3fd2ac9c20cdced9b9624586ed2
+>>>>>>> a5e2142fd27b0c6de99f4bde2d7aac2a300fc9ea
+>>>>>>> 34d6f4a7f95babe2911951a549d4ce0503affb06
 					</div>
 				</body>
 			</html>
