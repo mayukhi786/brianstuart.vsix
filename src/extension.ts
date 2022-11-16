@@ -36,12 +36,12 @@ class DDBViewProvider implements vscode.WebviewViewProvider {
 					<meta name="viewport" content="initial-scale=1.0, width=device-width">
 					<link href="${styleUri}" rel="stylesheet">
 					<script src="${scriptUri}"></script>
-					<title>ddb50</title>
+					<title>Brian Stuart Pet</title>
 				</head>
 				<body>
 					<div id="ddbChatContainer">
 						<div id="ddbChatText"></div>
-						<div id="ddbInput"><textarea placeholder="Message ddb"></textarea></div>
+						<div id="ddbInput"><textarea placeholder="Message Daddy"></textarea></div>
 					</div>
 				</body>
 			</html>
